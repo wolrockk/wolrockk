@@ -1,4 +1,4 @@
-[![Discord Presence](https://api.lanyard.rest/v1/users/908791234879971388?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/908791234879971388)
+
 
 <h1 align="center">Hi , I'm wolrock <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
