@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://discord.com/users/908791234879971388"><img src="https://lanyard-profile-readme.vercel.app/api/908791234879971388?borderRadius=25px&bg=#282a36" /></a>
+<a href="https://discord.com/users/908791234879971388"><img src="[https://lanyard-profile-readme.vercel.app/api/908791234879971388?borderRadius=25px&bg=#282a36](https://lanyard.cnrad.dev/api/:908791234879971388)" /></a>
 </div>
 
 <h1 align="center">Hi , I'm wolrock <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
