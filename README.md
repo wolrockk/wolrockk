@@ -19,12 +19,7 @@
 
 ### 👉 Programming languages
 
-<p align="left">
-   &emsp;
-   <a href="https://www.lua.org/" target="_blank">
-    <img alt="Lua" src="https://img.shields.io/badge/Lua-Lua-white">
-  </a>
-</p>
+
 
 ### 👉 Frontend Development
 <p align="left"> 
